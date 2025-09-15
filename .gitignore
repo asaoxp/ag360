@@ -74,6 +74,3 @@ datasets/
 # =========================
 **/variables.data-00000-of-00001
 **/variables.index
-
-models/
-ml_service/
